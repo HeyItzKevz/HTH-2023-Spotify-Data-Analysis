@@ -5,3 +5,8 @@ The data that I will be using for this project shows the top streamed tracks in 
 
 
 ## Data Analysis Questions (Brainstorming some Questions that I might do)
+### 1. What were the top 5 most popular songs from the 90's? And plot their streams in a bar graph.
+### 2. How much streams did Ed Sheran's top 3 songs earn in total? Create a pie chart comparing all three of them. 
+### 3. Create a scatterplot showing how release date relates to total streams.
+### 4. Create a scatterplot comparing the bpm and streams.
+### 4. How much streams did the top 500 artists make in total, compare how much each made using a pie chart. 
