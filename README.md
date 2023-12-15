@@ -8,7 +8,7 @@ The data that I will be using for this project shows the top streamed tracks in 
 
 ### 1. What were the top 10 most streamed tracks from the 90's in 2023? And plot their streams in a bar graph.
 
-### 2. How Popular were Ed Sheran's Top 6 Songs of 2023 compared? Create a pie chart comparing them.### 3. Create a scatterplot showing how release date relates to total streams.
+### 2. How Popular were Ed Sheran's Top 6 Songs of 2023 compared? Create a pie chart comparing them.
 
 ### 3. Create a scatterplot showing how release date relates to total streams.
 
