@@ -3,6 +3,13 @@
 ## Why I was Interested in this Data?
 The data that I will be using for this project shows the top streamed tracks in Spotify for 2023. It includes Track title, Artist, Release Date (in Year,Month, and Day), number of Streams on Spotify, and how many times the tracks were in the top charts for deezer, apple music, and shazam playlists. I choose this data set mainly because I was interested in seeing which songs were the most popular and by what artists. I also wanted to see patterns in what decade of music people liked, what artsits, which artists had more success on what platforms. I also really like listening to music and so its nice to see a lot of the artists I listen to be here.  
 
+## About This Data
+This data is from Nidula Elgiriyewithana's 'Most Streamed Spotify Songs 2023' from Kaggle.com . The data lits out the top streamed songs in 2023 and litsts out special features like Relese Date, Streams, and Stats. It also has a section where it labels out fit each song is for dancing, how acoustic it is, how much energy it has. This data can be used to see artist stats and also compare how time compares to popularity. 
+
+### Dataset: https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023
+
+## How Can I Impoove Based on Data
+This dataset only lists out top songs in 2023, through it would be interesting to compare with other years as well. 
 
 # Data Analysis Questions:
 
